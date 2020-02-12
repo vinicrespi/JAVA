@@ -1,4 +1,4 @@
-package com.example.myOrder.api.controllers;
+package com.example.myOrder.api;
 
 public class RestPath {
 
