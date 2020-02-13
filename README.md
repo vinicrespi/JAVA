@@ -1,3 +1,3 @@
 # JAVA
 
-Exercícios e projetos em Java realizados ao decorrer da universidade e cursos extracurriculares.
+Exercícios e projetos realizados em Java ao decorrer da universidade e cursos extracurriculares.
